@@ -1,0 +1,27 @@
+{
+  "name": "EmotionLens",
+  "short_name": "EmotionLens",
+  "description": "Facial expression recognition in-browser - 7 emotions, webcam + photos, mood timeline, fully private",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#0f2145",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
